@@ -6,6 +6,5 @@
 
 
 ////////////// Explicacion fotos
-
 ////// Las imágenes se han excluido porque he puesto estos metodos *.jpg, *.png, etc...y esto que las dichas imagenes con distintas extensiones no se suban al repositorio.
 
